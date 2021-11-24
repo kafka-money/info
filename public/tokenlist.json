@@ -1,0 +1,57 @@
+{
+    "name": "Coco Default List",
+    "timestamp": "2021-10-27T17:42:37.641Z",
+    "version": {
+        "major": 2,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/usdc.svg",
+    "keywords": [
+        "coco",
+        "default"
+    ],
+    "tokens": [
+        {
+            "chainId": 525,
+            "address": "0x749Dcc6D976d93Fde56735A82b5De9E5f82e93ef",
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://www.gemini.com/images/currencies/icons/default/usdc.svg"
+        },
+        {
+            "chainId": 525,
+            "address": "0x0A65E011819ab16DE74c53411A74b607984e5bd6",
+            "name": "USDT",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://www.gemini.com/images/currencies/icons/default/usdt.svg"
+        },
+        {
+            "chainId": 525,
+            "address": "0x3cBe826aC1ACfd97bBADe07FB4640B7D990BccB2",
+            "name": "DAI",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg"
+        },
+        {
+            "chainId": 525,
+            "address": "0x4c62e68d4d83B253dCfE2c336b4C6cA9BcFBdC25",
+            "name": "BTC",
+            "symbol": "BTC",
+            "decimals": 8,
+            "logoURI": "https://www.gemini.com/images/currencies/icons/default/btc.svg"
+        },
+        {
+            "chainId": 525,
+            "address": "0xef15BCa14670a35FB0542Dba316478a66De090E1",
+            "name": "ETH",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://www.gemini.com/images/currencies/icons/default/eth.svg"
+        }
+    ]
+}
